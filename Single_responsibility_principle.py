@@ -3,6 +3,7 @@
 # first one to collect all books on on dic
 # second one to store all books as strings in file will be create it also
 # if we make frist one store books in file , this behavior break single responsibility princple .
+# https://www.youtube.com/watch?v=NwiKVKj4uX8&list=PLUZKbOMoLPXDfscOjz87IJmsCvfXG0u5K&index=1
 
 
 class Books():

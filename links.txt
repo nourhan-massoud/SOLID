@@ -1,0 +1,5 @@
+doc :
+https://www.linkedin.com/pulse/solid-design-principles-python-examples-hiral-amodia/
+
+youtube chanle :
+https://www.youtube.com/watch?v=NwiKVKj4uX8&list=PLUZKbOMoLPXDfscOjz87IJmsCvfXG0u5K&index=1
